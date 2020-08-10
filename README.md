@@ -1,0 +1,2 @@
+# flutter_native_texure
+仿照开源仓库，学习Android原生和flutter共享图片
